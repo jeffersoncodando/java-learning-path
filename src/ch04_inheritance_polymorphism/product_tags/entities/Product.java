@@ -1,4 +1,4 @@
-package ch04_inheritance_polymorphism.entities;
+package ch04_inheritance_polymorphism.product_tags.entities;
 
 public class Product {
     private String name;

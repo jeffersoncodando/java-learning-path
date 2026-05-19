@@ -1,8 +1,8 @@
-package ch04_inheritance_polymorphism.application;
+package ch04_inheritance_polymorphism.product_tags.application;
 
-import ch04_inheritance_polymorphism.entities.ImportedProduct;
-import ch04_inheritance_polymorphism.entities.Product;
-import ch04_inheritance_polymorphism.entities.UsedProduct;
+import ch04_inheritance_polymorphism.product_tags.entities.ImportedProduct;
+import ch04_inheritance_polymorphism.product_tags.entities.Product;
+import ch04_inheritance_polymorphism.product_tags.entities.UsedProduct;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
