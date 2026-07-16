@@ -136,7 +136,6 @@ Aplicação de:
 - APIs REST
 - JPA / Hibernate
 - Testes Unitários
-- Docker
 
 ---
 
