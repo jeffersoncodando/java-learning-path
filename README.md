@@ -1,25 +1,121 @@
 # 🚀 Java Learning Path
 
-Este repositório serve como um diário de bordo e registro cronológico dos meus estudos focados em desenvolvimento backend com Java. Ele documenta a minha evolução técnica, partindo da sintaxe essencial até a aplicação de arquiteturas robustas da Orientação a Objetos e boas práticas de mercado.
+Bem-vindo!
+
+Este repositório reúne toda a minha jornada de aprendizado em Java.
+
+Mais do que armazenar exercícios, ele foi organizado como uma trilha de estudos cronológica, onde cada capítulo representa um conjunto de conceitos estudados e aplicados na prática.
+
+O objetivo é registrar minha evolução técnica, consolidar os conhecimentos adquiridos e construir uma base sólida para o desenvolvimento Back-end com Java.
 
 ---
 
-## 📂 Organização dos Capítulos
 
-* **`ch01_fundamentals`**: Domínio da sintaxe básica, tipos primitivos, estruturas condicionais (`if/else`) e de repetição (`for`, `while`).
-* **`ch02_arrays`**: Manipulação de vetores na memória, conceitos de encapsulamento, construtores e o comportamento de referências vs. valor.
-* **`ch03_lists`**: Trabalho com coleções dinâmicas utilizando `List` e `ArrayList`, focando na manipulação e filtragem de elementos.
-* **`ch04_inheritance_polymorphism`**: Aplicação prática dos pilares avançados da POO:
-    * Reutilização de código através de herança (`extends`) e herança de construtores (`super()`).
-    * Sobrescrita de métodos com a anotação `@Override`.
-    * Polimorfismo aplicado ao gerenciar coleções heterogêneas (ex: lista única de `Product` que aceita classes filhas).
-    * Uso de constantes (`private static final`) alinhado às boas práticas de Clean Code.
-* **`ch05_exceptions`**: Criação de aplicações resilientes através do tratamento de erros estruturado com blocos `try-catch` e desenvolvimento de exceções personalizadas (*custom exceptions*) para regras de negócio.
-* **`ch06_files`**: Manipulação de arquivos de texto e I/O de dados através das classes `FileReader` e `BufferedReader`, garantindo o fechamento seguro de recursos com a estrutura `try-with-resources`.
-* **`ch07_interfaces`**: Implementação de contratos através de `interfaces`, promovendo o desacoplamento de código, inversão de controle e facilidade de manutenção.
-* **`ch08_generics_collections`**: Deep dive em estruturas de dados avançadas, reutilização de código com Generics e algoritmos de busca/armazenamento eficientes:
-    * **Set (Student Counter):** Resolução de problemas de união de conjuntos ($A \cup B \cup C$) com foco em otimização de memória, utilizando um único `HashSet` e sobrescrevendo os métodos `hashCode` e `equals` para garantir unicidade lógica baseada em atributos da entidade.
-    * **Map (Vote Aggregator):** Agregação e contagem de dados textuais estruturados extraídos de arquivos externos. Uso estratégico de `LinkedHashMap` para manter a ordem cronológica de inserção enquanto atualiza valores dinamicamente.
+# 📚 Organização da Trilha
+
+## ✅ Capítulo 01 — Fundamentos
+
+Neste módulo foram abordados:
+
+- Variáveis
+- Tipos Primitivos
+- Entrada e Saída de Dados
+- Estruturas Condicionais
+- Estruturas de Repetição
+
+---
+
+## ✅ Capítulo 02 — Arrays
+
+Conceitos estudados:
+
+- Vetores
+- Referências de Objetos
+- Construtores
+- Encapsulamento
+
+---
+
+## ✅ Capítulo 03 — Lists
+
+Práticas envolvendo:
+
+- List
+- ArrayList
+- Inserção
+- Remoção
+- Busca
+- Filtragem
+
+---
+
+## ✅ Capítulo 04 — Herança e Polimorfismo
+
+Aplicação dos principais pilares da POO:
+
+- Herança
+- Sobrescrita de Métodos
+- Polimorfismo
+- Classes Abstratas
+- Constantes
+- Composição
+
+---
+
+## ✅ Capítulo 05 — Tratamento de Exceções
+
+Conteúdos estudados:
+
+- try / catch
+- finally
+- Exceções Personalizadas
+- Propagação de Exceções
+
+---
+
+## ✅ Capítulo 06 — Manipulação de Arquivos
+
+Práticas utilizando:
+
+- FileReader
+- BufferedReader
+- BufferedWriter
+- try-with-resources
+
+---
+
+## ✅ Capítulo 07 — Interfaces
+
+Aplicação de:
+
+- Interfaces
+- Desacoplamento de Código
+- Inversão de Dependência
+- Estratégias de Implementação
+
+---
+
+## ✅ Capítulo 08 — Generics e Collections
+
+### Generics
+
+- Classes Genéricas
+- Métodos Genéricos
+
+### Set
+
+- HashSet
+- TreeSet
+- LinkedHashSet
+- hashCode()
+- equals()
+
+### Map
+
+- HashMap
+- LinkedHashMap
+- Agregação de Dados
+- Manipulação de Arquivos
 
 ---
 
@@ -29,3 +125,39 @@ Este repositório serve como um diário de bordo e registro cronológico dos meu
 * **Paradigma:** Programação Orientada a Objetos (POO) aplicada a cenários reais
 * **Qualidade:** Padrões de nomenclatura em inglês, código limpo (*Clean Code*) e legibilidade
 * **Ambiente de Desenvolvimento:** IntelliJ IDEA e Git/GitHub para versionamento profissional
+
+---
+
+# 🗺️ Próximos Passos
+
+- JDBC
+- SQL
+- Spring Boot
+- APIs REST
+- JPA / Hibernate
+- Testes Unitários
+- Docker
+
+---
+
+# 📊 Progresso da Trilha
+
+| Módulo | Status |
+|--------|:------:|
+| Fundamentos | ✅ |
+| Arrays | ✅ |
+| Lists | ✅ |
+| Herança e Polimorfismo | ✅ |
+| Exceções | ✅ |
+| Arquivos | ✅ |
+| Interfaces | ✅ |
+| Generics e Collections | ✅ |
+| Programação Funcional e Expressões Lambda | 🔄 |
+| JDBC | ⏳ |
+| Spring Boot | ⏳ |
+
+---
+
+## 🚀 Evolução Contínua
+
+Este repositório é atualizado conforme avanço nos estudos. Novos módulos, projetos e desafios serão adicionados ao longo da minha jornada até a construção de aplicações completas com Spring Boot.
