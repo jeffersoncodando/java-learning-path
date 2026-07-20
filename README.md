@@ -151,7 +151,7 @@ Aplicação de:
 | Arquivos | ✅ |
 | Interfaces | ✅ |
 | Generics e Collections | ✅ |
-| Programação Funcional e Expressões Lambda | 🔄 |
+| Programação Funcional e Expressões Lambda | ✅ |
 | JDBC | ⏳ |
 | Spring Boot | ⏳ |
 
