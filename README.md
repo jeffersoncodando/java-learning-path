@@ -1,15 +1,14 @@
 # 🚀 Java Learning Path
 
-Bem-vindo!
+Este repositório documenta minha jornada de aprendizado no ecossistema Java.
 
-Este repositório reúne toda a minha jornada de aprendizado em Java.
+Mais do que armazenar exercícios, ele foi organizado como uma trilha de estudos cronológica, onde cada capítulo representa um conjunto de conceitos estudados e aplicados na prática, sempre buscando seguir boas práticas de organização, nomenclatura e legibilidade de código.
 
-Mais do que armazenar exercícios, ele foi organizado como uma trilha de estudos cronológica, onde cada capítulo representa um conjunto de conceitos estudados e aplicados na prática.
+Todo o código foi desenvolvido utilizando nomenclatura em inglês, seguindo as convenções adotadas em projetos Java e buscando manter consistência e legibilidade.
 
-O objetivo é registrar minha evolução técnica, consolidar os conhecimentos adquiridos e construir uma base sólida para o desenvolvimento Back-end com Java.
+O objetivo é registrar minha evolução técnica, consolidar os conhecimentos adquiridos e construir uma base sólida em desenvolvimento de software por meio do ecossistema Java.
 
 ---
-
 
 # 📚 Organização da Trilha
 
@@ -119,12 +118,37 @@ Aplicação de:
 
 ---
 
-## 🛠️ Tecnologias, Ferramentas e Conceitos
+## 🛠️ Tecnologias & Ferramentas
 
-* **Linguagem:** Java (Foco em recursos modernos e tipagem forte)
-* **Paradigma:** Programação Orientada a Objetos (POO) aplicada a cenários reais
-* **Qualidade:** Padrões de nomenclatura em inglês, código limpo (*Clean Code*) e legibilidade
-* **Ambiente de Desenvolvimento:** IntelliJ IDEA e Git/GitHub para versionamento profissional
+- Java
+- IntelliJ IDEA
+- Git
+- GitHub
+
+---
+
+## 📚 Conceitos Abordados
+
+- Programação Orientada a Objetos (POO)
+- Encapsulamento, Herança e Polimorfismo
+- Classes e Métodos Abstratos
+- Interfaces
+- Generics
+- Collections Framework
+- Programação Funcional e Expressões Lambda
+- Tratamento de Exceções
+- Manipulação de Arquivos
+- Estruturas de Dados
+- Versionamento com Git e GitHub
+
+---
+
+## 🎯 Objetivos da Trilha
+
+- Consolidar os fundamentos da linguagem Java.
+- Desenvolver boas práticas de programação orientada a objetos.
+- Evoluir gradualmente para persistência de dados, APIs REST e aplicações com Spring Boot.
+- Documentar minha evolução ao longo da jornada de aprendizado.
 
 ---
 
@@ -159,4 +183,6 @@ Aplicação de:
 
 ## 🚀 Evolução Contínua
 
-Este repositório é atualizado conforme avanço nos estudos. Novos módulos, projetos e desafios serão adicionados ao longo da minha jornada até a construção de aplicações completas com Spring Boot.
+Esta trilha acompanha minha evolução no ecossistema Java.
+
+Cada novo módulo representa uma etapa do aprendizado, registrando não apenas os exercícios desenvolvidos, mas também a forma como minha maneira de resolver problemas evolui ao longo do tempo.
