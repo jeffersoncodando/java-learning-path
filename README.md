@@ -10,11 +10,19 @@ O objetivo é registrar minha evolução técnica, consolidar os conhecimentos a
 
 ---
 
+## 💡 Sobre este repositório
+
+Este repositório não representa uma aplicação pronta para produção.
+
+Seu propósito é documentar, de forma organizada, a evolução dos meus estudos em Java, reunindo exercícios, exemplos práticos e implementações desenvolvidas ao longo da trilha de aprendizado.
+
+---
+
 # 📚 Organização da Trilha
 
 ## ✅ Capítulo 01 — Fundamentos
 
-Neste módulo foram abordados:
+Conceitos estudados:
 
 - Variáveis
 - Tipos Primitivos
@@ -37,7 +45,7 @@ Conceitos estudados:
 
 ## ✅ Capítulo 03 — Lists
 
-Práticas envolvendo:
+Conceitos estudados:
 
 - List
 - ArrayList
@@ -50,7 +58,7 @@ Práticas envolvendo:
 
 ## ✅ Capítulo 04 — Herança e Polimorfismo
 
-Aplicação dos principais pilares da POO:
+Conceitos estudados:
 
 - Herança
 - Sobrescrita de Métodos
@@ -63,7 +71,7 @@ Aplicação dos principais pilares da POO:
 
 ## ✅ Capítulo 05 — Tratamento de Exceções
 
-Conteúdos estudados:
+Conceitos estudados:
 
 - try / catch
 - finally
@@ -74,7 +82,7 @@ Conteúdos estudados:
 
 ## ✅ Capítulo 06 — Manipulação de Arquivos
 
-Práticas utilizando:
+Conceitos estudados:
 
 - FileReader
 - BufferedReader
@@ -85,7 +93,7 @@ Práticas utilizando:
 
 ## ✅ Capítulo 07 — Interfaces
 
-Aplicação de:
+Conceitos estudados:
 
 - Interfaces
 - Desacoplamento de Código
@@ -98,10 +106,14 @@ Aplicação de:
 
 ### Generics
 
+Conceitos estudados:
+
 - Classes Genéricas
 - Métodos Genéricos
 
 ### Set
+
+Conceitos estudados:
 
 - HashSet
 - TreeSet
@@ -110,6 +122,8 @@ Aplicação de:
 - equals()
 
 ### Map
+
+Conceitos estudados:
 
 - HashMap
 - LinkedHashMap
@@ -127,7 +141,7 @@ Aplicação de:
 
 ---
 
-## 📚 Conceitos Abordados
+## 📖 Conceitos Abordados
 
 - Programação Orientada a Objetos (POO)
 - Encapsulamento, Herança e Polimorfismo
@@ -145,8 +159,8 @@ Aplicação de:
 
 ## 🎯 Objetivos da Trilha
 
-- Consolidar os fundamentos da linguagem Java.
-- Desenvolver boas práticas de programação orientada a objetos.
+- Consolidar os fundamentos da linguagem Java e da Programação Orientada a Objetos.
+- Desenvolver boas práticas de desenvolvimento de software.
 - Evoluir gradualmente para persistência de dados, APIs REST e aplicações com Spring Boot.
 - Documentar minha evolução ao longo da jornada de aprendizado.
 
@@ -156,33 +170,35 @@ Aplicação de:
 
 - JDBC
 - SQL
+- JPA / Hibernate
 - Spring Boot
 - APIs REST
-- JPA / Hibernate
 - Testes Unitários
 
 ---
 
 # 📊 Progresso da Trilha
 
-| Módulo | Status |
-|--------|:------:|
-| Fundamentos | ✅ |
-| Arrays | ✅ |
-| Lists | ✅ |
-| Herança e Polimorfismo | ✅ |
-| Exceções | ✅ |
-| Arquivos | ✅ |
-| Interfaces | ✅ |
-| Generics e Collections | ✅ |
+| Módulo                                    | Status |
+|-------------------------------------------|:------:|
+| Fundamentos                               | ✅ |
+| Arrays                                    | ✅ |
+| Lists                                     | ✅ |
+| Herança e Polimorfismo                    | ✅ |
+| Exceções                                  | ✅ |
+| Arquivos                                  | ✅ |
+| Interfaces                                | ✅ |
+| Generics e Collections                    | ✅ |
 | Programação Funcional e Expressões Lambda | ✅ |
-| JDBC | ⏳ |
-| Spring Boot | ⏳ |
+| JDBC                                      | ⏳ |
+| JPA / Hibernate                           | ⏳ |
+| Spring Boot                               | ⏳ |
+| APIs REST                                 | ⏳ |
 
 ---
 
 ## 🚀 Evolução Contínua
 
-Esta trilha acompanha minha evolução no ecossistema Java.
+Esta trilha registra minha evolução no ecossistema Java.
 
-Cada novo módulo representa uma etapa do aprendizado, registrando não apenas os exercícios desenvolvidos, mas também a forma como minha maneira de resolver problemas evolui ao longo do tempo.
+Cada novo módulo representa uma etapa do aprendizado, registrando não apenas os exercícios desenvolvidos, mas também a evolução da minha forma de resolver problemas ao longo do tempo.
