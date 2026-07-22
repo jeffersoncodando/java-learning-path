@@ -132,6 +132,22 @@ Conceitos estudados:
 
 ---
 
+## ✅ Capítulo 09 — Programação Funcional e Expressões Lambda
+
+Conceitos estudados:
+
+- Expressões Lambda
+- Interfaces Funcionais
+- Stream API
+- map()
+- filter()
+- reduce()
+- sorted()
+- Collectors
+- Method References
+
+---
+
 ## 🛠️ Tecnologias & Ferramentas
 
 - Java
