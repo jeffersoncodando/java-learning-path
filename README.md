@@ -148,9 +148,28 @@ Conceitos estudados:
 
 ---
 
+## ✅ Capítulo 10 — JDBC (Java Database Connectivity)
+
+Conceitos estudados:
+
+- Conexão com banco de dados relacional (MySQL)
+- `Connection`, `PreparedStatement`, `ResultSet`
+- Padrão de projeto **DAO** (Data Access Object)
+- Padrão de projeto **Factory**
+- Tratamento de exceções customizadas (`DbException`, `DbIntegrityException`)
+- Boas práticas de segurança (uso de `PreparedStatement` contra SQL Injection, não versionar credenciais de banco)
+
+A prática desse capítulo foi organizada como um **projeto aplicado separado**, para simular melhor uma aplicação real (com seu próprio README, estrutura de camadas e histórico de commits):
+
+➡️ **[demo-dao-jdbc](https://github.com/jeffersoncodando/demo-dao-jdbc)**
+
+---
+
 ## 🛠️ Tecnologias & Ferramentas
 
 - Java
+- JDBC
+- MySQL
 - IntelliJ IDEA
 - Git
 - GitHub
@@ -169,6 +188,7 @@ Conceitos estudados:
 - Tratamento de Exceções
 - Manipulação de Arquivos
 - Estruturas de Dados
+- JDBC e Padrão DAO
 - Versionamento com Git e GitHub
 
 ---
@@ -184,8 +204,6 @@ Conceitos estudados:
 
 # 🗺️ Próximos Passos
 
-- JDBC
-- SQL
 - JPA / Hibernate
 - Spring Boot
 - APIs REST
@@ -206,7 +224,7 @@ Conceitos estudados:
 | Interfaces                                | ✅ |
 | Generics e Collections                    | ✅ |
 | Programação Funcional e Expressões Lambda | ✅ |
-| JDBC                                      | ⏳ |
+| JDBC                                      | ✅ |
 | JPA / Hibernate                           | ⏳ |
 | Spring Boot                               | ⏳ |
 | APIs REST                                 | ⏳ |
